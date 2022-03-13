@@ -2,7 +2,7 @@
 
 We have tried to visualize the popular story of hare and tortoise with the help o OpenGL library in C++.
 
-OPENGL LIBRARY [Installsion note](http://www.cse.iitm.ac.in/~vplab/courses/CG/OpenGL-Install-Guide.pdf))
+OpenGL library [Installtion note](http://www.cse.iitm.ac.in/~vplab/courses/CG/OpenGL-Install-Guide.pdf)
 
 ## Screenshots:
 
